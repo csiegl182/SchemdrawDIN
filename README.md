@@ -1,2 +1,10 @@
 # SchemdrawDIN
-Provide element styles of Deutsches Institut für Normung for schemdraw
+Provide element styles of _Deutsches Institut für Normung_ for [schemdraw](https://pypi.org/project/schemdraw/).
+
+## Description
+
+[Schemdraw](https://pypi.org/project/schemdraw/) is a Python library, which provides an easy-to-use interface to draw schematics with. Thanks a lot to Collin J. Delker for such an amazing library. The source code is available at [bitbucket](https://bitbucket.org/cdelker/schemdraw/).
+
+## Installation
+
+## Usage
