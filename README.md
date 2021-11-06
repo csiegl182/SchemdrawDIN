@@ -8,3 +8,11 @@ Provide element styles of _Deutsches Institut für Normung_ for [schemdraw](http
 ## Installation
 
 ## Usage
+
+````python
+import schemdraw
+import schemdraw.elements as elm
+from SchemdrawDIN.style import STYLE_DIN
+
+elm.style(STYLE_DIN)
+````
