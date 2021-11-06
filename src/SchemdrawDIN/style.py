@@ -1,5 +1,5 @@
 import schemdraw
-from .elements import InductorDIN
+from .elements import InductorDIN, SourceIDIN2
 from .elements import SourceUDIN
 from .elements import SourceIDIN
 
@@ -8,4 +8,5 @@ STYLE_DIN.update({
     'Inductor': InductorDIN,
     'SourceV': SourceUDIN,
     'SourceI': SourceIDIN,
+    'SourceIArrow': SourceIDIN2,
     })
